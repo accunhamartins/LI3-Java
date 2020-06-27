@@ -13,4 +13,5 @@ Também inclui o relatório do trabalho, onde é feita uma explicação mais por
 - Rui Vieira [@6Hunter](https://github.com/6Hunter).
 
 
-**Executar:** `java -jar projJava.jar`
+# Executar 
+`java -jar projJava.jar`
