@@ -10,4 +10,4 @@ Possui ficheiro com 1 milhão de vendas, nem todas válidas.
 - Rui Vieira [@6Hunter](https://github.com/6Hunter).
 
 
-**Executar:** ```java -jar projJava.jar´´´
+**Executar:** `java -jar projJava.jar´
