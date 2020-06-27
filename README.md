@@ -1,4 +1,4 @@
-# LI3-JAVA
+# LI3 JAVA
 # Sistema de Gestão de Vendas
 
 Desenvolvimento de uma aplicação capaz de analisar determinados ficheiros de clientes, produtos e vendas.
